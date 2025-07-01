@@ -14,4 +14,4 @@
 
 
 
-<p align="center">To change, add or remove proverbs, go to the js/main.js and find variable words </p>
+<p align="center">To change, add or remove proverbs, go to the js/main.js and find variable "words".</p>
