@@ -14,11 +14,4 @@
 
 
 
-<p align="center">To change, add or remove proverbs, go to the 
-  ```bash
-  js/main.js 
-  ```
-  and find variable
-```bash
-words
-```</p>
+<p align="center">To change, add or remove proverbs, go to the js/main.js and find variable words </p>
